@@ -9,7 +9,8 @@ import javafx.stage.Stage;
 import java.io.IOException;
 
 public class Main extends Application {
-    static final String API_KEY ="7c40f938f99d4be5b3c7e274061fb102";
+    static APIKey a=new APIKey();
+    static final String API_KEY=a.API_KEY();
     public static void main(String[] args) {
         launch(args);
     }
