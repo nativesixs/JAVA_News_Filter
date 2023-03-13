@@ -4,10 +4,6 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 
-//import org.json.JSONException;
-//import org.json.simple.parser.ParseException;
-
-
 import java.io.IOException;
 import java.io.InputStream;
 import java.net.HttpURLConnection;

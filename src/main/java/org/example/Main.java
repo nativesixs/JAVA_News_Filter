@@ -23,11 +23,3 @@ public class Main extends Application {
         primaryStage.show();
     }
 }
-
-
-
-/*
-ApiController api = new ApiController();
-        api.getHeadlines(API_KEY);
-        System.out.println("main done");
- */
